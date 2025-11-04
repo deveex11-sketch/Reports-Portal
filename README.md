@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Next.js Admin Template with TypeScript & Shadcn UI
 
 **Post Dominator** - Includes multiple dashboards, authentication layouts, customizable theme presets, and more.
@@ -123,3 +124,7 @@ Contributions are welcome. Feel free to open issues, feature requests, or start 
 
 
 **Happy Vibe Coding!**
+=======
+# postdominator
+social media scheduling app
+>>>>>>> bde64992a12d0f2abbaf8926b48bf927f35e97c8
