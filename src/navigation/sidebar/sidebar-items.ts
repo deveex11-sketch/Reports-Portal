@@ -113,9 +113,9 @@ export const sidebarItems: NavGroup[] = [
       },
       {
         title: "Connections",
-        url: "/dashboard/coming-soon",
+        url: "/dashboard/connections",
         icon: Plug,
-        comingSoon: true,
+        comingSoon: false,
       },
     ],
   },
